@@ -51,7 +51,7 @@ El archivo de configuración se genera automáticamente al iniciar el plugin:
 
 **Ruta:**  
 ```
-csgo/addons/counterstrikesharp/configs/SamyRankFixer.json
+csgo/addons/counterstrikesharp/plugins/SamyRankFixer/SamyRankFixer.json
 ```
 
 **Ejemplo de configuración:**
