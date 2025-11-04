@@ -93,4 +93,4 @@ Cada cambio importante o evento clave (penalización, entrega de puntos, cambio 
 
 ---
 
-**Desarrollado por Samy con ❤️ para la comunidad.**
+**Desarrollado por Samy 🧉.**
